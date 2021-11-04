@@ -1,2 +1,2 @@
-let header = document.querySelector ('#page_header')
+let header = document.querySelector ('#page-header')
 header.style.textAlign = "left"
